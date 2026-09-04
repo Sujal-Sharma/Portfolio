@@ -39,7 +39,7 @@ export const experiences = [
     company: "SRM University AP",
     date: "2022 - 2026",
     description: [
-      "CGPA: 7.95",
+      "CGPA: 8.02",
       "Specializing in Artificial Intelligence and Machine Learning",
       "Working on Edge AI and real-time healthcare monitoring research",
       "NPTEL Proud Pinnacle Topper – Sustainable Development",

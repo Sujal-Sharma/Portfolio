@@ -191,7 +191,7 @@ const About = () => {
             <div className="grid grid-cols-2 gap-3 mb-8">
               {[
                 { label: "University", value: "SRM University AP" },
-                { label: "CGPA", value: "7.95 / 10" },
+                { label: "CGPA", value: "8.02 / 10" },
                 { label: "Graduation", value: "2026" },
                 { label: "Location", value: "Andhra Pradesh, India" },
               ].map((fact) => (

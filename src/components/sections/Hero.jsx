@@ -220,7 +220,7 @@ const Hero = () => {
           >
             {[
               { value: "3+", label: "Projects" },
-              { value: "7.95", label: "CGPA" },
+              { value: "8.02", label: "CGPA" },
               { value: "1", label: "Research Paper" },
               { value: "5+", label: "Certifications" },
             ].map((stat) => (
